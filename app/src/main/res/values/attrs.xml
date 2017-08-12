@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaskImageView">
+        <attr name="miv_margin" format="dimension"/>
+        <attr name="miv_image" format="integer"/>
+        <attr name="miv_mask" format="integer"/>
+        <attr name="miv_alpha" format="integer"/>
+    </declare-styleable>
+
+</resources>

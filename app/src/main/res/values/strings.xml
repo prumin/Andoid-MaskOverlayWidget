@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraWidget</string>
+    <string name="notice">Наведите камеру на документ</string>
+</resources>
