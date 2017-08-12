@@ -6,7 +6,7 @@ A small widget to focus the user's attention when using the camera.
 Screenshots
 -----------
 
-![Image](../master/Screens/screen1.png?raw=true)
+![Image](../master/screens/screen1.png?raw=true)
 
 Usage
 -----
@@ -27,10 +27,10 @@ Usage
 Mask example
 -----------
 
-![Image](../master/Screens/mask.png?raw=true)
+![Image](../master/screens/mask.png?raw=true)
 
 
 Image example
 -----------
 
-![Image](../master/Screens/original.png?raw=true)
+![Image](../master/screens/original.png?raw=true)
